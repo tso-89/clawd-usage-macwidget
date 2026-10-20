@@ -1,0 +1,13 @@
+---
+name: Pirate
+top: -2
+r: #DC2626
+w: #F8FAFC
+k: #141416
+---
+...rrrrrrrrrrrr...
+..rrwrrrrwrrrrrrr.
+...kkkkkkkkkkkkk..
+............kkk...
+............kkk...
+............kkk...

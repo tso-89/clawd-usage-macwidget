@@ -1,0 +1,4 @@
+---
+name: Ghost
+body: #E5E7EB
+---

@@ -1,0 +1,10 @@
+---
+name: Viking
+g: #9CA3AF
+w: #F5F5DC
+y: #FACC15
+---
+w...............w.
+ww....ggggg....ww.
+.ww.ggggggggg.ww..
+..wgyyyyyyyyyyw...

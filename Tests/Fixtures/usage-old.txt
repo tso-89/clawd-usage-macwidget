@@ -1,0 +1,7 @@
+Current session: 10% used · resets Oct 17, 5:19am (Europe/Moscow)
+Current week (all models): 26% used · resets Oct 19, 6am (Europe/Moscow)
+Current week (Fable): 19% used · resets Oct 19, 5:59am (Europe/Moscow)
+
+Last 7d · 4558 requests · 83 sessions
+  78% of your usage was at >150k context
+  Some brand new metric line
