@@ -8,6 +8,10 @@
   <b>Your Claude plan limits in the menu bar, with a tiny crab who has opinions about them.</b>
 </p>
 
+<p align="center">
+  <a href="https://github.com/tso-89/clawd-usage-macwidget/releases/latest/download/Clawd-Usage.dmg"><b>⬇ Download Clawd-Usage.dmg</b></a> · macOS 14+ · signed and notarized
+</p>
+
 ---
 
 Ever hit your 5-hour limit mid-thought? Clawd saw it coming. He sits in the menu bar and in a
@@ -41,7 +45,7 @@ installed and logged in.
 
 ### The easy way: download it
 
-1. Grab `Clawd-Usage.dmg` from the [latest release](../../releases/latest).
+1. [Download `Clawd-Usage.dmg`](https://github.com/tso-89/clawd-usage-macwidget/releases/latest/download/Clawd-Usage.dmg) (or pick a version from [Releases](../../releases)).
 2. Open it and drag **Clawd Usage** into **Applications**.
 3. Open it from Applications. Clawd appears in the menu bar and on your screen.
 
